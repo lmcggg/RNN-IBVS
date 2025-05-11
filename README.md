@@ -94,6 +94,7 @@ The optimization results include:
 3. Robot configuration snapshots
 4. Convergence analysis
 5. Velocity profiles
+![image](https://github.com/user-attachments/assets/dccc456b-cf71-4944-b36c-d34b551ecb8c)
 
 ## Contributing
 
